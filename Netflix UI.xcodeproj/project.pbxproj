@@ -11,6 +11,7 @@
 		D1C0819625663EAA001F1FE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1C0819525663EAA001F1FE3 /* ContentView.swift */; };
 		D1C0819825663EAE001F1FE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1C0819725663EAE001F1FE3 /* Assets.xcassets */; };
 		D1C0819B25663EAE001F1FE3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1C0819A25663EAE001F1FE3 /* Preview Assets.xcassets */; };
+		D1C081A425663FD5001F1FE3 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1C081A325663FD5001F1FE3 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		D1C0819725663EAE001F1FE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1C0819A25663EAE001F1FE3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D1C0819C25663EAE001F1FE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1C081A325663FD5001F1FE3 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				D1C0819525663EAA001F1FE3 /* ContentView.swift */,
 				D1C0819725663EAE001F1FE3 /* Assets.xcassets */,
 				D1C0819C25663EAE001F1FE3 /* Info.plist */,
+				D1C081A325663FD5001F1FE3 /* Launch Screen.storyboard */,
 				D1C0819925663EAE001F1FE3 /* Preview Content */,
 			);
 			path = "Netflix UI";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1C081A425663FD5001F1FE3 /* Launch Screen.storyboard in Resources */,
 				D1C0819B25663EAE001F1FE3 /* Preview Assets.xcassets in Resources */,
 				D1C0819825663EAE001F1FE3 /* Assets.xcassets in Resources */,
 			);
